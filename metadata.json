@@ -1,0 +1,6 @@
+{
+  "name": "Space-Travel Landing Page",
+  "description": "A elegant and immersive cinematic landing page for space voyages with fluid-glass design elements and dynamic transitioning video backgrounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
